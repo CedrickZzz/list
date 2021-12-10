@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Unitel SC" tvg-logo="https://1.bp.blogspot.com/-2J9bvu227KY/YaRG2yVeBFI/AAAAAAAABto/CJ7LGP6xxpMNdqXxZofYaIyyFkc3D74DQCLcBGAsYHQ/s1247/UNITEL%2BSANTA%2BCRUZ%2BHD.jpg" group-title="BOLIVIA",UNITEL SANTA CRUZ
+https://srv1.painelvideo.com/vavizacli/vavizacli/playlist.m3u8
+#EXTINF:-1 tvg-name="Red Uno SC" tvg-logo="https://1.bp.blogspot.com/-ik38prajUdM/YaRH4NN7pFI/AAAAAAAABuU/cfKft585K5s4uOBIVYTmhdhwPDfQE_9UACLcBGAsYHQ/s1688/RED%2BSANTA%2BCRUZ%2BHD.jpg" group-title="BOLIVIA",RED UNO SANTA CRUZ
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkAXRysAzuvrfpeWHd0A24k)/dm/3/x825whp/d/live-3.m3u8
+#EXTINF:-1 tvg-name="Bolivision SC HD" tvg-logo="https://1.bp.blogspot.com/-6HaPEJ6ITHM/YaRIfYRHPmI/AAAAAAAABu0/oaYL8ssorE84n2y3_VR-d50jsdrxAhCMACLcBGAsYHQ/s1688/BOLIVISION%2BHD%2BSANTA%2BCRUZ.jpg" group-title="BOLIVIA",BOLIVISION SANTA CRUZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-name="ATB SC" tvg-logo="https://1.bp.blogspot.com/-xyH5WekPZ-8/YaVNSzQ2CGI/AAAAAAAABv4/mD4reT4zvJkj29svW-nBYUq1_ms43pGaQCLcBGAsYHQ/s1688/ATB%2BSANTA%2BCRUZ.jpg" group-title="BOLIVIA",ATB SANTA CRUZ
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-name="PAT SC" tvg-logo="https://1.bp.blogspot.com/-wap-XFFfS-A/YaRJUKWcF-I/AAAAAAAABvQ/4jiK75LaZKA5GTeqMylmPM0U3tCU8OD0wCLcBGAsYHQ/s1688/PAT%2BHD%2B02.jpg" group-title="BOLIVIA",PAT HD
+http://200.58.160.67:8081/envivo/pat/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UNITEL SEÑAL GLOBAL" tvg-logo="https://1.bp.blogspot.com/-PHrn0qeGBX4/YaRHOSuEAhI/AAAAAAAABt0/LggrH71FUJsIffn1-uZgB4lmvWjCEn2_QCLcBGAsYHQ/s1247/UNITEL%2BGLOBAL%2BHD.jpg" group-title="BOLIVIA",UNITEL SEÑAL GLOBAL
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyHvX-XKIEr7yzLmw5r9kWU)/dm/3/x7wzxiw/s/live-3.m3u8
+#EXTINF:-1 tvg-name="UNITEL SEÑAL EN VIVO 2" tvg-logo="https://1.bp.blogspot.com/-_Db4bXVhnSQ/YaRHZb3Nt2I/AAAAAAAABt8/SgcLDKEMWvQpDKQ_YxZau4FrzDVoBUHPwCLcBGAsYHQ/s1247/UNITEL%2BEN%2BVIVO%2B2%2BHD.jpg" group-title="BOLIVIA",UNITEL EN VIVO 2
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3NzLcXTCNtvjXcfUvw-VQA)/dm/3/x7wzxiw/s/live-3.m3u8
+#EXTINF:-1 tvg-name="UNITEL SEÑAL EN VIVO 3" tvg-logo="https://1.bp.blogspot.com/-jxNdW28Zfhc/YaRHjf-57WI/AAAAAAAABuE/ebsXxeoEJZwJf4dNT1HN8JTt910EdmRkwCLcBGAsYHQ/s1247/UNITEL%2BEN%2BVIVO%2B3%2BHD.jpg" group-title="BOLIVIA",UNITEL SEÑAL EN VIVO 3
+http://200.58.160.67:8081/envivo/unitelhd/unitelhd/unitelhd/playlist.m3u8
