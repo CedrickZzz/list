@@ -21,3 +21,19 @@ https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
 #EXTINF:-1 tvg-name="PAT SC" tvg-logo="https://1.bp.blogspot.com/-wap-XFFfS-A/YaRJUKWcF-I/AAAAAAAABvQ/4jiK75LaZKA5GTeqMylmPM0U3tCU8OD0wCLcBGAsYHQ/s1688/PAT%2BHD%2B02.jpg" group-title="BOLIVIA",PAT SC
 http://200.58.160.67:8081/envivo/pat/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-name="FOX SPORTS" tvg-logo="https://assets.streamtest.in/logo/8679/292_fox-sports.jpg?v=1585844885", FOX SPORTS
+http://proxyts.ec.cx:8082/hls1/foxsports1.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="https://assets.streamtest.in/logo/8680/293_fox-sports-2.jpg?v=1585846400", FOX SPORTS 2
+http://proxyts.ec.cx:8082/hls1/foxsports2.m3u8
+
+
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://assets.streamtest.in/logo/8689/302_hbo.jpg?v=1585850343", HBO
+http://proxyts.ec.cx:8082/hls1/hbo.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://assets.streamtest.in/logo/8690/303_hbo-2.jpg?v=1585850573", HBO 2
+http://proxyts.ec.cx:8082/hls1/hbo2.m3u8
+
